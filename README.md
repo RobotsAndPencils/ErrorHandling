@@ -25,6 +25,8 @@ Swift Package Manager:
 
 ## Usage
 
+An [example project](./Example) is provided.
+
 Use the `emittingError(_:recoveryHandler:)` modifier from a view that should present an error:
 
 ```swift

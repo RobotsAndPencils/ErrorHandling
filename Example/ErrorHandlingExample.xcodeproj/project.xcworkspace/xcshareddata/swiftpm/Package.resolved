@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ErrorHandling",
+        "repositoryURL": "https://github.com/RobotsAndPencils/ErrorHandling",
+        "state": {
+          "branch": "main",
+          "revision": "80ec3db5c36e85189713b136d7b112121fb03826",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
