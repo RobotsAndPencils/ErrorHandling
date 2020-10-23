@@ -11,7 +11,17 @@ This should be set in the root view of your app.
 
 ## Installation
 
-Support CocoaPods and Swift Package Manager.
+CocoaPods:
+
+```rb
+pod 'ErrorHandling', git: 'git@github.com:RobotsAndPencils/ErrorHandling.git', tag: 'v0.1.0'
+```
+
+Swift Package Manager:
+
+```swift
+.package(url: "git@github.com:RobotsAndPencils/ErrorHandling.git", .upToNextMinor(from: "0.1.0")),
+```
 
 ## Usage
 
